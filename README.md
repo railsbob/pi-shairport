@@ -17,7 +17,7 @@ This is a puppet recipe to install [shairport](https://github.com/abrasive/shair
 
 2. Bootstrap raspbian wheezy - run this on the Pi.
 ````
-  curl -sSL https://raw2.github.com/railsbob/pi-shairport/master/bootstrap.sh | sudo bash
+  curl -sSL https://raw2.github.com/railsbob/puppet-pi_shairport/master/bootstrap.sh | sudo bash
 ````
 This will install the necessary packages required to run the puppet recipe.
 
